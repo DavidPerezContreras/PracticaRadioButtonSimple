@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaRadioButton</string>
+
+    <string name="radio1">Opcion 1</string>
+    <string name="radio2">Opcion 2</string>
+    <string name="radio3">Opcion 3</string>
+    <string name="radio4">Opcion 4</string>
+</resources>
